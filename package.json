@@ -1,0 +1,15 @@
+{
+  "name": "json-merge",
+  "version": "1.0.0",
+  "description": "merge a series of files containing JSON array of Objects",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "npm-git-install": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Volety",
+  "license": "ISC"
+}
